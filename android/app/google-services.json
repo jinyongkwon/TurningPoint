@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1068405609890",
+    "project_id": "aiapplogin",
+    "storage_bucket": "aiapplogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068405609890:android:793713f70172f094038efb",
+        "android_client_info": {
+          "package_name": "com.jideguru.turningpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068405609890-ltnf59k8mec1n5qa6pef0uc8gg0lh1i6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jideguru.turningpoint",
+            "certificate_hash": "34970b37b5111221fbdfb3dd1efe878d2d70127c"
+          }
+        },
+        {
+          "client_id": "1068405609890-dui7p50e4vt69l2031dif7nqb0accr0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtSc4rouGZGL-Qckc_j07_OZS2AgqHa64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068405609890-dui7p50e4vt69l2031dif7nqb0accr0s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068405609890-3hfvtve56bfo47pg1456ei497hqm6htv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jideguru.restaurantUiKit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
